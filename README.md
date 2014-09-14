@@ -3,7 +3,7 @@ rotton_tomato_movie_app
 
 (weekly project submission README))
 
-This is an IOS demo application for calculating tips [see project requirement here](https://gist.github.com/timothy1ee/6858b706304a2397a7e2). See the [simple version tip calculator ](http://vimeo.com/102084767) for a step-by-step tutorial.
+This is an IOS demo application for rotton tomatoes movies App usign TableView and TableViewCells [see project requirement here](http://courses.codepath.com/courses/intro_to_ios/week/1#!assignment). See the [simple version rotton tomatoes ](http://vimeo.com/105842473) for a step-by-step tutorial.
 
 Time spent: 8 hours spent in total
 

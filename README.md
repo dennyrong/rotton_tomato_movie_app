@@ -17,7 +17,8 @@ Completed user stories:
  * [x] Optional: Add a tab bar for Box Office and DVD.
 
 Walkthrough of all user stories:
-![Video Walkthrough](demo_1.gif)
+
+![Video Walkthrough](demo_3.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).

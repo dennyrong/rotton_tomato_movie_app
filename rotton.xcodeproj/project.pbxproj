@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1F99A58BF53C4A86B2395E1D /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 804A88E34C9747F5A0474F16 /* libPods.a */; };
+		34B87B1119C63911009FE686 /* tomato1.png in Resources */ = {isa = PBXBuildFile; fileRef = 34B87B1019C63911009FE686 /* tomato1.png */; };
 		34C2975B19C4EA5600770755 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34C2975A19C4EA5600770755 /* AppDelegate.swift */; };
 		34C2976019C4EA5600770755 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34C2975E19C4EA5600770755 /* Main.storyboard */; };
 		34C2976219C4EA5600770755 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34C2976119C4EA5600770755 /* Images.xcassets */; };
@@ -29,6 +30,7 @@
 
 /* Begin PBXFileReference section */
 		2D724B7D9C27447882F3C106 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
+		34B87B1019C63911009FE686 /* tomato1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tomato1.png; path = ../../../Downloads/tomato1.png; sourceTree = "<group>"; };
 		34C2975519C4EA5600770755 /* rotton.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = rotton.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		34C2975919C4EA5600770755 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		34C2975A19C4EA5600770755 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 		34C2975819C4EA5600770755 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				34B87B1019C63911009FE686 /* tomato1.png */,
 				34C2975919C4EA5600770755 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -214,6 +217,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				34C2976019C4EA5600770755 /* Main.storyboard in Resources */,
+				34B87B1119C63911009FE686 /* tomato1.png in Resources */,
 				34C2976219C4EA5600770755 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -1,4 +1,4 @@
-rotton_tomato_movie_app
+rotten_tomato_movie_app
 =======================
 
 (weekly project submission README))
